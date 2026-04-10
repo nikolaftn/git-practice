@@ -2,4 +2,4 @@ t0 - t nula
 t1 - t izmenaa
 t2 - ajmoo
 t3 - frka
-
+f2 - eee prolaze neke slike
