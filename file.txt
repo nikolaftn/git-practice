@@ -1,3 +1,4 @@
 t0 - t nula
 t1 - t izmenaa
 t2 - ajmoo
+t3 - krece konflikt
