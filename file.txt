@@ -3,3 +3,4 @@ t1 - t izmenaa
 t2 - ajmoo
 t3 - frka
 
+f1 - ajmo grana
